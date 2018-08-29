@@ -4,7 +4,7 @@ A bunch of stuff to vim you up. Built for Mac.
 Heavily based on Square's [maximum-awesome](https://github.com/square/maximum-awesome)
 repo that's no longer maintained, plus a few other goodies.
 
-This project was forked from Cassidy Williams' awesome [vim-up repo](https://github.com/cassidoo/vim-up) and I've made _some_ adjustments to fit my personal preferences.
+This project was forked from Cassidy Williams' awesome [vim-up repo](https://github.com/cassidoo/vim-up). I've made some adjustments to fit my personal preferences.
 
 ## What's in it?
 
